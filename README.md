@@ -6,4 +6,4 @@ Financial Engineering Applications:
 
 2: Built a robust arbitrage model with C++ to detect the existence of arbitrage opportunities and estimated its risk through 100 trials with Python.
 
-3: Solved the Mean-Variance optimization problem for 100 stocks and compute the portfolio with C++.
+3: Solved the Mean-Variance optimization problem for 100 stocks and compute the portfolio with C.
